@@ -1,4 +1,4 @@
-# SAiDL-Spring-Assignment2025
+# SAiDL-Spring-Assignment-2025
 This is my attempt for SAiDL Spring induction 2025
 
 1. Core ML Task
