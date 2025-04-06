@@ -8,7 +8,6 @@ This is my attempt for SAiDL Spring Induction 2025
 &nbsp;&nbsp;&nbsp;&nbsp;• [Experimenting with different discretization schemes](State-Space-Models/s4_scifar10_3.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;• [Bonus Task]()    
 
-And here are quick links to final reports:
-
+And here are quick links to final reports:  
 • [Core ML Task]()  
 • [State-Space Models]()
