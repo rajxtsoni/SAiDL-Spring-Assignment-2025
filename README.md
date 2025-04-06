@@ -9,5 +9,5 @@ This is my attempt for SAiDL Spring Induction 2025
 &nbsp;&nbsp;&nbsp;&nbsp;• [Bonus Task]()    
 
 And here are quick links to final reports:  
-• [Core ML Task]()  
+• [Core ML Task](Core-ML/Core_ML_report.pdf)  
 • [State-Space Models]()
