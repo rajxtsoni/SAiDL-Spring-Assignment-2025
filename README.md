@@ -1,5 +1,5 @@
 # SAiDL-Spring-Assignment-2025
-This is my attempt for SAiDL Spring induction 2025
+This is my attempt for SAiDL Spring Induction 2025
 
 1. [Core ML Tasks + Bonus](Core-ML/main.ipynb)
 2. [State-Space Models](State-Space-Models)  
