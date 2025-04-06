@@ -10,4 +10,4 @@ This is my attempt for SAiDL Spring Induction 2025
 
 And here are quick links to final reports:  
 • [Core ML Task](Core-ML/Core_ML_report.pdf)  
-• [State-Space Models]()
+• [State-Space Models](State-Space-Models/State_Space_Models_report.pdf)
