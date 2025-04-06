@@ -10,5 +10,5 @@ This is my attempt for SAiDL Spring Induction 2025
 
 And here are quick links to final reports:
 
-1. Core ML Task
-2. State-Space Models
+1. [Core ML Task]()  
+2. [State-Space Models]()
