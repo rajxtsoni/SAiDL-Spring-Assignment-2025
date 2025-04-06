@@ -2,11 +2,11 @@
 This is my attempt for SAiDL Spring Induction 2025
 
 • Core ML    
-     • [All tasks + Bonus](Core-ML/main.ipynb)    
+\t• [All tasks + Bonus](Core-ML/main.ipynb)    
 • State-Space Models    
-     • [Implementation and evaluation of S4 on sCIFAR10](State-Space-Models/s4_scifar10_2.ipynb)  
-     • [Experimenting with different discretization schemes](State-Space-Models/s4_scifar10_3.ipynb)  
-     • [Bonus Task]()    
+\t• [Implementation and evaluation of S4 on sCIFAR10](State-Space-Models/s4_scifar10_2.ipynb)  
+\t• [Experimenting with different discretization schemes](State-Space-Models/s4_scifar10_3.ipynb)  
+\t• [Bonus Task]()    
 
 And here are quick links to final reports:
 
